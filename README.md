@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I'm Muhamad Amirul Hakimi, an student at [National Defense University Malaysia](https://www.upnm.edu.my/), For a detailed view of my profile, check out my LinkedIn.
+I'm Muhamad Amirul Hakimi, student at [National Defense University Malaysia](https://www.upnm.edu.my/), For a detailed view of my profile, check out my LinkedIn.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](-)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](-)
